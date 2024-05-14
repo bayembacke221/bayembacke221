@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kisworks.com/blog/wp-content/uploads/2019/11/mean-stack1.png)]([https://rishavchanda.io](https://portfoliobmbacke.netlify.app/))
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://portfoliobmbacke.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Mbacke Mbaye</h1>
 <h3 align="center">🚀 Développeur Fullstack MEAN | 💻 Expert Mongo, Express, Angular & Node.js | 🌍 Basé à Dakar, Sénégal</h3>
