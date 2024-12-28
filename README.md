@@ -15,9 +15,7 @@
 
 Développeur Fullstack passionné et enthousiaste DevOps, je suis constamment à la recherche de nouveaux défis et d'opportunités pour développer mes compétences. Mon parcours professionnel est marqué par une curiosité insatiable et une volonté d'excellence dans tout ce que j'entreprends.
 
-- 🔭 Je travaille actuellement sur un **Système d'Information Hospitalier**
-- 🌱 J'apprends actuellement **Next.js et React.js**
-- 👯 Je cherche à collaborer sur **Teranga Event**
+
 - 📫 Comment me joindre : **mbackembaye74@gmail.com**
 
 
