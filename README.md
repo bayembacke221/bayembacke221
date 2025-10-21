@@ -1,8 +1,5 @@
 # <div align="center">🌟 MBACKE MBAYE 🌟</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github stats" />
-</p>
 
 <div align="center">
   
@@ -12,7 +9,6 @@
   
 </div>
 
----
 
 
 ---
