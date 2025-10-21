@@ -1,13 +1,5 @@
 # <div align="center">🌟 MBACKE MBAYE 🌟</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Developer Banner" width="100%"/>
-  
-  <br>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&color=9745F5&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Fullstack;Enthousiaste+DevOps;Passionn%C3%A9+d'innovation;Architecte+de+solutions)](https://git.io/typing-svg)
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github stats" />
 </p>
@@ -22,37 +14,6 @@
 
 ---
 
-## <div align="center">💫 QUI SUIS-JE</div>
-
-<table>
-  <tr>
-    <td width="58%">
-      <blockquote>
-        <p><i>« Le code est comme une blague. S'il a besoin d'être expliqué, c'est qu'il est mauvais. » – Cory House</i></p>
-      </blockquote>
-      <br>
-      <p>
-        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Développeur passionné basé à <b>Dakar, Sénégal</b>, je transforme des concepts complexes en solutions élégantes et performantes.
-      </p>
-      <p>
-        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> <b>Contact :</b> <a href="mailto:mbackembaye74@gmail.com">mbackembaye74@gmail.com</a>
-      </p>
-      <br>
-      <p>
-        <b>🔥 PROJETS ACTUELS :</b><br>
-        <img src="https://img.shields.io/badge/%F0%9F%93%A6-Stock%20Management-9C27B0?style=flat-square&labelColor=black"/> 
-        <img src="https://img.shields.io/badge/%F0%9F%8E%93-School%20Management-00BCD4?style=flat-square&labelColor=black"/>
-      </p>
-      <p>
-        <b>🌱 CONTRIBUTIONS :</b><br>
-        <img src="https://img.shields.io/badge/%F0%9F%8E%93-School%20Management-00BCD4?style=flat-square&labelColor=black"/>
-      </p>
-    </td>
-    <td width="42%">
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100%">
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -106,40 +67,4 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bayembacke221&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophées GitHub"/>
-</div>
-
----
-
-## <div align="center">🔗 CONNECTONS-NOUS</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bayembacke221/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/mbackembaye5" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mbackembaye74@gmail.com" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://malcolm-dev.com/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/coder-man.gif" width="90%">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Merci+de+votre+visite+!;N'h%C3%A9sitez+pas+%C3%A0+me+contacter;Pour+toute+collaboration+future" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
