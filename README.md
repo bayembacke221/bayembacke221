@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bayembacke221/count.svg" alt="Visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=bayembacke221&label=PROFILE+VIEWS&color=2E75B6&style=for-the-badge" alt="Profile views"/>
 </p>
 
 #
@@ -114,24 +113,26 @@ ________
 
 <p align="center">
   <a href="https://github.com/bayembacke221">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bayembacke221&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayembacke221&theme=tokyonight" alt="Profile details"/>
   </a>
   <a href="https://github.com/bayembacke221">
-    <img width="49%" src="https://streak-stats.demolab.com?user=bayembacke221&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=bayembacke221&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bayembacke221">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayembacke221&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=github-slideshow,openclassroom,EXERCICE_JAVA" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayembacke221&theme=tokyonight&exclude=github-slideshow,openclassroom,EXERCICE_JAVA" alt="Repos per language"/>
   </a>
   <a href="https://github.com/bayembacke221">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bayembacke221&theme=tokyonight&utcOffset=0" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayembacke221&theme=tokyonight" alt="Most commit language"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="auto" src="https://metrics.lecoq.io/bayembacke221?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa/Dakar"/>
+  <a href="https://github.com/bayembacke221">
+    <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bayembacke221&theme=tokyonight&utcOffset=0" alt="Productive time"/>
+  </a>
 </p>
 
 <br>
